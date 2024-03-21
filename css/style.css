@@ -1,0 +1,167 @@
+/*--Header Elements--*/
+.logo{
+    text-align: center;
+    padding: 40px;
+    max-width: 100%;
+}
+
+.navbar{
+    font-family: 'Antic Didone', serif;
+    font-size: 22px;
+    background-color: #333333;
+    color: #F9F6EE;
+    padding-top: 16px;
+    padding-bottom: 16px;
+    
+}
+
+.background-image{
+    width: 100%;
+    height: 400px;
+    background-image: url(../images/backgroundMainImage.jpg);
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+}
+/*--Header Elements finished--*/
+
+/*--About Harry Potter section--*/
+.container-main{
+    background-image: url(../images/backgroundMainContentBlurred.jpg);
+    width: 100%;
+    height: 600px;
+    background-size: 100% 100%;
+    padding: 80px;
+}
+
+
+.page-section-title-main{
+    font-family: 'EB Garamond', serif;
+    color: #F9F6EE;
+}
+
+.page-section-text-main{
+    font-family: 'Crimson Text', serif;
+    color: #F9F6EE;
+    font-size: 18px;
+    padding-top: 20px;
+}
+
+.page-section-text-quote{
+    font-family: 'Crimson Text', serif;
+    color: #F9F6EE;
+    font-size: 24px;
+    padding-top: 50px;
+}
+
+/*--Characters Section--*/
+.page-section-title-characters{
+    font-family: 'EB Garamond', serif;
+    color: #333333;
+    padding-top: 30px;
+    font-size: 36px;
+    padding-bottom: 30px;
+}
+.page-section-title-profile{
+    font-family: 'EB Garamond', serif;
+    color: #F9F6EE;
+    padding-top: 20px;
+}
+
+
+.page-section-text-profile{
+    font-family: 'Crimson Text', serif;
+    color: #F9F6EE;
+    font-size: 20px;
+}
+
+#profileImages{
+    border-radius: 50%;
+    border: 10px solid #000000;
+    width: 300px;
+    height: 300px;
+}
+
+.btn{
+    background-color: #333333;
+    color: #FFFFFF;
+    width: 180px;
+    height: 50px;
+    font-family: 'Roboto', sans-serif;
+    font-size: 20px;
+    
+     
+}
+
+.btn:hover{
+    background-color: #5A5A5A;
+}
+
+
+
+
+/*--Clearfix line when page goes mobile sizing--*/
+hr.line1, hr.line2{
+    border: 1px solid #F9F6EE;
+}
+
+/*--About Author Section--*/
+.container-author{
+    background-image: url(../images/wandAndBook.jpg);
+    width: 100%;
+    height: 550px;
+    background-size: 100% 100%;
+    padding: 40px;
+}
+
+.page-section-title-author{
+    font-family: 'EB Garamond', serif;
+    color: #F9F6EE;
+    font-size: 34px;
+}
+
+
+.page-section-text-author{
+    font-family: 'Crimson Text', serif;
+    color: #F9F6EE;
+    font-size: 18px;
+    padding-top: 20px;
+}
+
+.page-section-text-additional{
+    font-family: 'Crimson Text', serif;
+    color: #F9F6EE;
+    font-size: 22px;
+    padding-top: 30px;
+    
+}
+
+
+/*--Footer Elements--*/
+.page-footer{
+    background-color: #333333;
+}
+
+.logo-footer{
+    padding-top: 20px;
+}
+
+.page-section-title-footer{
+    font-family: 'EB Garamond', serif;
+    color: #F9F6EE;
+    padding-top: 40px;
+    font-size: 24px;
+}
+
+.page-section-text-terms{
+    font-family: 'Crimson Text', serif;
+    color: #F9F6EE;
+    font-size: 16px;
+    text-align: right;
+}
+
+.page-section-text-privacy{
+    font-family: 'Crimson Text', serif;
+    color: #F9F6EE;
+    font-size: 16px;
+    text-align: left;
+}
